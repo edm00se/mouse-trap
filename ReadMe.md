@@ -4,6 +4,11 @@ What's a mouse trap? Something which puts out bait, like cheese, and then snaps 
 
 What's this project? Nothing more than a simple attempt at playing with the content preview `meta` tags.
 
+## Archived
+
+This repo has been archived and can be viewed in [my demos repo](https://github.com/edm00se/demos/). You can view the live site:
+https://edm00se.codes/demos/mouse-trap/
+
 ## Why?
 
 Content previews are shown on many devices now, especially mobile. This is little more than a mini experiment, playing with the content headers to show alternative content to the actual page content.
